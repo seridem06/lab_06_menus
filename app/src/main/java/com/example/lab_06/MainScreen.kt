@@ -125,4 +125,4 @@ fun CustomContent(padding: PaddingValues, clickCount: Int) {
             style = MaterialTheme.typography.bodyLarge
         )
     }
-}}
+}
